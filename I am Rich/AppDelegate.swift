@@ -3,7 +3,7 @@
 //  I am Rich
 //
 //  Created by Ali Ozan Özmelek on 6.11.2022.
-//
+// first commit on 08.01.2023
 
 import UIKit
 
